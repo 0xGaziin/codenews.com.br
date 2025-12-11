@@ -1,0 +1,25 @@
+{
+  "name": "codenews.com.br",
+  "version": "1.0.0",
+  "description": "Informações sobre as principais notícias de tecnologia",
+  "homepage": "https://github.com/0xGaziin/codenews.com.br#readme",
+  "bugs": {
+    "url": "https://github.com/0xGaziin/codenews.com.br/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xGaziin/codenews.com.br.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
